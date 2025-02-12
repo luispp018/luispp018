@@ -16,10 +16,11 @@ I have a bachelor's degree in Computer Science and Engeneering, at Instituto Sup
 - **Languages**: Java, JavaScript, Python, TypeScript, C/C#/C++, HTML/CSS, TailwindCSS, SQL, ...
 - **Frameworks**: Vue, Angular
 - **Tools**: Docker, Git, GitLab, VS Code
----
 
 ## 🌱 Learning
 - **More Frameworks**, such as React
 - REST API
+
+---
 
 ⭐️ Feel free to explore my repositories and connect with me!
