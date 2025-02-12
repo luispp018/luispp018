@@ -3,8 +3,8 @@
 I have a bachelor's degree in Computer Science and Engeneering, at Instituto Superior Técnico, and I'm passionate about programming and coding.
 
 ## 📫 How to reach me
-- Email: luispedro854584@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/luisppereira200318/)
+- 📧 [Email](luispedro854584@gmail.com)
+- 🟦 [LinkedIn](https://www.linkedin.com/in/luisppereira200318/)
 
 ## 🚀 Projects Developed
 - [Operative Systems](https://github.com/luispp018/proj_KVS_SO)
