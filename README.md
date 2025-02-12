@@ -18,7 +18,7 @@ I'm a 21 year old man from Guimarães who has a bachelor's degree in Computer Sc
 - **Frameworks**: Vue, Angular
 - **Tools**: Docker, Git, GitLab, VS Code
 
-## 🌱 Learning
+## 🌱 What I'm Currently Learning...
 - **More Frameworks**, such as React
 - REST API
 
