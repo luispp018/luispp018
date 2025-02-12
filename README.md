@@ -1,6 +1,6 @@
 # Hello there, I'm Luís! 👋
 
-I'm a 21 year old man from Guimarães who has a bachelor's degree in Computer Science and Engeneering, at Instituto Superior Técnico. I'm passionate about sports, history and geopolitics, but through my academic studies I've found a passion in programming and coding.
+I'm a 21 year old man from Guimarães who has a bachelor's degree in Computer Science and Engeneering, obtained at Instituto Superior Técnico - Lisbon. I'm passionate about sports, history and geopolitics, but through my academic studies I've found a passion in programming and coding.
 
 ## 📫 How to reach me
 - 📧 [Email](luispedro854584@gmail.com)
