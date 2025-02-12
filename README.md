@@ -10,6 +10,7 @@ I'm a 21 year old man from Guimarães who has a bachelor's degree in Computer Sc
 - [Artificial Intelligence](https://github.com/luispp018/ist-ai-project)
 - [Compilers](https://github.com/luispp018/proj_til_comp)
 - [Introduction to Computer Architecture](https://github.com/luispp018/proj_IAC_IST)
+- [Machine Learning](https://github.com/luispp018/ML_homeworks)
 - [Operative Systems](https://github.com/luispp018/proj_KVS_SO)
 - Working on adding more...
 
