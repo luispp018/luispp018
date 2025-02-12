@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello there, I'm Luís! 👋
 
-<!--
-**luispp018/luispp018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a bachelor's degree in Computer Science and Engeneering, at Instituto Superior Técnico, and I'm passionate about programming and coding.
 
-Here are some ideas to get you started:
+## 📫 How to reach me
+- Email: luispedro854584@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/luisppereira200318/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects Developed
+- [Operative Systems](https://github.com/luispp018/proj_KVS_SO)
+- [Artificial Intelligence](https://github.com/luispp018/ist-ai-project)
+- [Compilers](https://github.com/luispp018/proj_til_comp)
+- Working on adding more...
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+⭐️ Feel free to explore my repositories and connect with me!
