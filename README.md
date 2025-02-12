@@ -12,9 +12,14 @@ I have a bachelor's degree in Computer Science and Engeneering, at Instituto Sup
 - [Compilers](https://github.com/luispp018/proj_til_comp)
 - Working on adding more...
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
+## 🔧 Tech Stack
+- **Languages**: Java, JavaScript, Python, TypeScript, C/C#/C++, HTML/CSS, TailwindCSS, SQL, ...
+- **Frameworks**: Vue, Angular
+- **Tools**: Docker, Git, GitLab, VS Code
 ---
+
+## 🌱 Learning
+- **More Frameworks**, such as React
+- REST API
 
 ⭐️ Feel free to explore my repositories and connect with me!
