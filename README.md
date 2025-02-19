@@ -12,6 +12,7 @@ I'm a 21 year old man from Guimarães who has a bachelor's degree in Computer Sc
 - [Introduction to Computer Architecture](https://github.com/luispp018/proj_IAC_IST)
 - [Machine Learning](https://github.com/luispp018/ML_homeworks)
 - [Operative Systems](https://github.com/luispp018/proj_KVS_SO)
+- [TimeTask Companion Web App](https://github.com/luispp018/timetask-companion): Frontend project (React)
 - Working on adding more...
 
 ## 🔧 Tech Stack
